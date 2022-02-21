@@ -1,5 +1,6 @@
-# Mechlite-Core-v2-Patch-for-Outposts-Mines
-Mechlite Core v2 Patch for Vanilla Outposts Expanded Mines
+# Mechlite Core v2 Patch for Vanilla Outposts Expanded Mines
+
+![](https://github.com/dave40k/Mechlite-Core-v2-Patch-for-Outposts-Mines/blob/main/About/Preview.png)
 
 This patch add the 3 ores from Mechlite Core v2 to Vanilla Outposts Expanded so that they can be an output for the outposts mines.
 

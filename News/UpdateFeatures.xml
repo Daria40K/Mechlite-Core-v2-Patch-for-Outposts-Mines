@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="UpdateFeatureBase">
+		<modNameReadable>Mechalit Core v2 Patch for Outposts Mines</modNameReadable>
+		<modIdentifier>Daria40K.MechliteCorev2PatchOutposts</modIdentifier>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2704227295</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	
+    <!-- v1.1 -->
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>MechliteCorev2PatchOutposts_1_1</defName>
+		<assemblyVersion>1.1</assemblyVersion>
+		<content>Added N-16 as a mineable resource from Outposts</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>

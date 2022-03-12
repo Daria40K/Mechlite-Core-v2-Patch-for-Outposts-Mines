@@ -31,6 +31,13 @@
 							  <Mining>10</Mining>
 							</MinSkills>
 						  </li>
+						  <li>
+							  <BaseAmount>750</BaseAmount>
+							  <Thing>Gasnenkj</Thing>
+							  <MinSkills>
+								  <Mining>10</Mining>
+							  </MinSkills>
+						  </li>
 					</value>
 				</li>
 			</operations>

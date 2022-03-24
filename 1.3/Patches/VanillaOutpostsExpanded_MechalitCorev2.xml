@@ -8,36 +8,11 @@
 		<match Class="PatchOperationSequence">
 			<operations>
 				<li Class="PatchOperationInsert">
-					<xpath>Defs/WorldObjectDef[defName="Outpost_Mining"]/modExtensions/li/ResultOptions/li[Thing="Steel"]</xpath>
+					<xpath>Defs/WorldObjectDef[defName="Outpost_Mining"]/modExtensions/li/Resources/ComponentIndustrial</xpath>
 					<value>
-						<li>
-							<BaseAmount>750</BaseAmount>
-							<Thing>Tisnit</Thing>
-							<MinSkills>
-							  <Mining>10</Mining>
-							</MinSkills>
-						  </li>
-						  <li>
-							<BaseAmount>750</BaseAmount>
-							<Thing>Simerium</Thing>
-							<MinSkills>
-							  <Mining>10</Mining>
-							</MinSkills>
-						  </li>
-						  <li>
-							<BaseAmount>750</BaseAmount>
-							<Thing>Phasarium</Thing>
-							<MinSkills>
-							  <Mining>10</Mining>
-							</MinSkills>
-						  </li>
-						  <li>
-							  <BaseAmount>750</BaseAmount>
-							  <Thing>Gasnenkj</Thing>
-							  <MinSkills>
-								  <Mining>10</Mining>
-							  </MinSkills>
-						  </li>
+						<Tisnit>10</Tisnit>
+						<Simerium>10</Simerium>
+						<Phasarium>10</Phasarium>
 					</value>
 				</li>
 			</operations>

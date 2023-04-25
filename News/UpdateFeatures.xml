@@ -19,4 +19,11 @@
 		<assemblyVersion>1.2</assemblyVersion>
 		<content>Fixed some xml issues. N-16 was removed due to how the Outposts calculates values based off mineable ore.</content>
 	</HugsLib.UpdateFeatureDef>
+
+	<!-- v2.0 -->
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>MechliteCorev2PatchOutposts_2_0</defName>
+		<assemblyVersion>2.0</assemblyVersion>
+		<content>Updated for RimWorld 1.4</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>

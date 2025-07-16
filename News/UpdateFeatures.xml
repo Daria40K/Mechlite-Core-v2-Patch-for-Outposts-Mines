@@ -33,4 +33,11 @@
 		<assemblyVersion>3.0</assemblyVersion>
 		<content>Updated for RimWorld 1.5 and change required mod to Mechalit Core v2 (Continued)</content>
 	</HugsLib.UpdateFeatureDef>
+
+	<!-- v4.0 -->
+	<HugsLib.UpdateFeatureDef ParentName="UpdateFeatureBase">
+		<defName>MechliteCorev2PatchOutposts_4_0</defName>
+		<assemblyVersion>4.0</assemblyVersion>
+		<content>Updated for RimWorld 1.6</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
